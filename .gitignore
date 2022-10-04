@@ -3,6 +3,7 @@ Thumbs.db*
 .DS_Store*
 HELP.md
 doc
+dist
 
 # Logs
 logs
@@ -41,7 +42,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-dist/
+
 
 # TypeScript v1 declaration files
 typings/
